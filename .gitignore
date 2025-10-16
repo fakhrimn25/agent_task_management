@@ -1,0 +1,6 @@
+__pycache__/
+.files/
+.chainlit/
+*.ipynb
+credentials.json
+config.conf
